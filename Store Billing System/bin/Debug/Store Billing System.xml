@@ -1,0 +1,175 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StoreBillingSystem
+</name>
+</assembly>
+<members>
+<member name="P:Store_Billing_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Store_Billing_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Store_Billing_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.categoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.employeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.productDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.salesorderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.categoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.employeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.productRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.salesorderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.categoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.employeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.productRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.salesorderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.categoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.employeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.productTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.salesorderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.stockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.customerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Store_Billing_System.storebillingsystemdbDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Store_Billing_System.storebillingsystemdbDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Store_Billing_System.storebillingsystemdbDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.UpdateAll(Store_Billing_System.storebillingsystemdbDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Store_Billing_System.storebillingsystemdbDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="F:Store_Billing_System.MainMDIform.emp">
+CREATING NEW TABS'''
+
+</member>
+</members>
+</doc>
